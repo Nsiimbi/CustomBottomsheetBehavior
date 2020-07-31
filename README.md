@@ -58,15 +58,7 @@ Related questions:<br>
 [Open an activity or fragment with Bottom Sheet Deep Linking](http://stackoverflow.com/questions/34243928/open-an-activity-or-fragment-with-bottom-sheet-deep-linking)<br>
 [BottomSheetDialogFragment - How to set expanded height (or min top offset)](http://stackoverflow.com/questions/36030879/bottomsheetdialogfragment-how-to-set-expanded-height-or-min-top-offset)
 
-## Credits
-Giving thx to @akaN44 and @vit001 for their contribution :D.
-
 ## License
 Licensed under the Apache License, Version 2.0
 <br><br>
 The true is I don't care about license... JUST USE IT, improve it if you can and give me vote up in stack overflow :D.
-
-
-<a href="http://stackoverflow.com/users/1332549/miguelhincapiec">
-<img src="http://stackoverflow.com/users/flair/1332549.png" width="208" height="58" alt="profile for MiguelHincapieC at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for MiguelHincapieC at Stack Overflow, Q&amp;A for professional and enthusiast programmers">
-</a>
