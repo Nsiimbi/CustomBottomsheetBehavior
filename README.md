@@ -2,11 +2,20 @@
 Android Studio Project using Support Library focused on get Google Maps 3 states behavior including background image parallax and toolbars animations.
 
 ## Installation
-In your module/project build.gradle file add<br>
+### gradle
+```
+allprojects {
+		repositories {
+			...
+			maven { url 'https://jitpack.io' }
+		}
+	}
+```
+### Add the dependency
 ```
 dependencies {
    ...
-   implementation 'com.mahc.custombottomsheetbehavior:googlemaps-like:0.9.1'
+   	   implementation 'com.github.Nsiimbi:CustomBottomsheetBehavior:V0.0.0.1'
 }
 ```
 
